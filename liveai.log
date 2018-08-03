@@ -1,0 +1,3 @@
+# Logfile created on 2018-08-04 07:41:31 +0900 by logger.rb/1.2.8
+E, [2018-08-04T07:41:31.341036 #6506] ERROR -- : Failed to open TCP connection to localhost:3000 (Connection refused - connect(2) for "localhost" port 3000)
+E, [2018-08-04T07:52:40.605923 #7491] ERROR -- : Failed to open TCP connection to localhost:3000 (Connection refused - connect(2) for "localhost" port 3000)
